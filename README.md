@@ -29,3 +29,4 @@ GROUP BY prod_category
 ORDER BY total_orders DESC
 LIMIT 1;
 
+![Alt text]("C:\Users\LENOVO\Pictures\Screenshots\Screenshot 2025-05-28 194634.png")
